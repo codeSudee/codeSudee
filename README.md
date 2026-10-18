@@ -10,16 +10,24 @@ I build RAG pipelines, tool-calling AI agents, and the APIs that wrap them.
 - url-shortener — FastAPI + PostgreSQL URL shortener with per-key auth, rate limiting, click analytics, and link expiry.
 - multi-agent-crew — A CrewAI system where three agents research, analyze, and write a report together.
 
-## Stack
+<div align="center">
 
-- Languages/frameworks: Python, FastAPI, LangChain, CrewAI, Pydantic, SQLAlchemy
-- Data: PostgreSQL, Pinecone, Qdrant, SQLite
-- AI/ML: OpenAI API, LLM-as-judge evaluation, Mem0, RAG pipelines
-- Infra: Docker, Render, Streamlit Community Cloud
+### Stack
+
+<img src="https://skillicons.dev/icons?i=py,fastapi,ts,astro,docker,postgres,sqlite,git,github,vscode" /><br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" />
+
+</div>
 
 ## Side projects
 
-A few small utility sites I built and maintain for SEO/AdSense practice: interpcalc.com, variancecalc.com, hsgpacalc.com.
+- [interpcalc.com](https://interpcalc.com) — interpolation calculator
+- [variancecalc.com](https://variancecalc.com) — variance & standard deviation calculator
+- [hsgpacalc.com](https://hsgpacalc.com) — high school GPA calculator
+- [loremmaker.com](https://loremmaker.com/) — Lorem Ipsum placeholder text generator
 
 ---
 
