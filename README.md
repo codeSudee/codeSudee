@@ -1,6 +1,6 @@
 # Sudeepto Jharimunya
 
-2nd-year CS student at BMS Institute of Technology, Bengaluru. I build RAG pipelines, tool-calling AI agents, and the APIs that wrap them.
+I build RAG pipelines, tool-calling AI agents, and the APIs that wrap them.
 
 ## What I'm building
 
