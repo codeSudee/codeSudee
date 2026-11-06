@@ -1,14 +1,32 @@
-# Sudeepto Jharimunya
+# Hi, I'm Sudeepto
 
-I build RAG pipelines, tool-calling AI agents, and the APIs that wrap them.
+I build APIs, AI agents and a suspicious number of calculator websites.
 
-## What I'm building
+Most of it works. Some of it works after I fix it at 2am.
 
-- rag-chatbot — Password-gated RAG chatbot (LangChain + Pinecone + gpt-4o-mini), deployed live on Streamlit.
-- rag-chatbot-evals — LLM-as-judge evaluation harness for the chatbot above, logging to SQLite with a Streamlit dashboard.
-- productivity-agent / productivity-agent-api — A tool-calling AI agent built with raw OpenAI function-calling, plus a FastAPI service wrapping it with multi-key auth and rate limiting.
-- url-shortener — FastAPI + PostgreSQL URL shortener with per-key auth, rate limiting, click analytics, and link expiry.
-- multi-agent-crew — A CrewAI system where three agents research, analyze, and write a report together.
+## Latest thing I shipped
+
+**[fastapi-keygate](https://github.com/codeSudee/fastapi-keygate)** is a FastAPI plugin that adds API-key auth, per-key rate limiting and usage tracking with one `pip install`. It's on PyPI, it comes with a small dashboard ([demo here](https://fastapi-keygate.code-sudeepto.workers.dev)), and you never have to write the same auth code twice.
+
+## AI and backend stuff
+
+- [rag-chatbot](https://github.com/codeSudee/rag-chatbot): answers questions from my documents. It has a password, because I'm not paying OpenAI for strangers' curiosity.
+- [rag-chatbot-evals](https://github.com/codeSudee/rag-chatbot-evals): one LLM grades the chatbot's answers. Yes, a robot marking a robot's homework.
+- [productivity-agent](https://github.com/codeSudee/productivity-agent) and [productivity-agent-api](https://github.com/codeSudee/productivity-agent-api): an agent that manages your tasks by chatting, plus a FastAPI wrapper with API keys and rate limits.
+- [url-shortener](https://github.com/codeSudee/url-shortener): click analytics and link expiry, because links should be allowed to die.
+- [multi-agent-crew](https://github.com/codeSudee/multi-agent-crew): three AI agents research, analyze and write a report. I just watch and take the credit.
+- [trading bots](https://github.com/codeSudee/xauusdt-trading-bot-v1): paper money only. My real money is safe from me.
+
+## Websites I made
+
+All free, no sign-up, mostly built with Astro.
+
+- [interpcalc.com](https://interpcalc.com): interpolation calculator
+- [variancecalc.com](https://variancecalc.com): variance and standard deviation calculator
+- [hsgpacalc.com](https://hsgpacalc.com): high school GPA calculator (weighted, unweighted, AP, IB, the lot)
+- [loremmaker.com](https://loremmaker.com): Lorem Ipsum generator. It has a cat mode, don't ask
+- [GFR calculator](https://github.com/codeSudee/GFR-calculator) and [JSON diff checker](https://github.com/codeSudee/jsondiffchecker): two more tools, still growing
+- [web-skills](https://codesudee.github.io/web-skills/): skills that help AI agents build websites that don't look like AI built them
 
 <div align="center">
 
@@ -22,13 +40,6 @@ I build RAG pipelines, tool-calling AI agents, and the APIs that wrap them.
 
 </div>
 
-## Side projects
-
-- [interpcalc.com](https://interpcalc.com) — interpolation calculator
-- [variancecalc.com](https://variancecalc.com) — variance & standard deviation calculator
-- [hsgpacalc.com](https://hsgpacalc.com) — high school GPA calculator
-- [loremmaker.com](https://loremmaker.com/) — Lorem Ipsum placeholder text generator
-
 ---
 
-code.sudeepto@gmail.com
+Say hi: code.sudeepto@gmail.com
