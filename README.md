@@ -4,29 +4,28 @@ I build APIs, AI agents and a suspicious number of calculator websites.
 
 Most of it works. Some of it works after I fix it at 2am.
 
-## Latest thing I shipped
+## Latest ship
 
-**[fastapi-keygate](https://github.com/codeSudee/fastapi-keygate)** is a FastAPI plugin that adds API-key auth, per-key rate limiting and usage tracking with one `pip install`. It's on PyPI, it comes with a small dashboard ([demo here](https://fastapi-keygate.code-sudeepto.workers.dev)), and you never have to write the same auth code twice.
+**[fastapi-keygate](https://github.com/codeSudee/fastapi-keygate)**: API-key auth, rate limiting and usage tracking for FastAPI, in one `pip install`. [Dashboard demo](https://fastapi-keygate.code-sudeepto.workers.dev).
 
-## AI and backend stuff
+## AI and backend
 
-- [rag-chatbot](https://github.com/codeSudee/rag-chatbot): answers questions from my documents. It has a password, because I'm not paying OpenAI for strangers' curiosity.
-- [rag-chatbot-evals](https://github.com/codeSudee/rag-chatbot-evals): one LLM grades the chatbot's answers. Yes, a robot marking a robot's homework.
-- [productivity-agent](https://github.com/codeSudee/productivity-agent) and [productivity-agent-api](https://github.com/codeSudee/productivity-agent-api): an agent that manages your tasks by chatting, plus a FastAPI wrapper with API keys and rate limits.
-- [url-shortener](https://github.com/codeSudee/url-shortener): click analytics and link expiry, because links should be allowed to die.
-- [multi-agent-crew](https://github.com/codeSudee/multi-agent-crew): three AI agents research, analyze and write a report. I just watch and take the credit.
-- [trading bots](https://github.com/codeSudee/xauusdt-trading-bot-v1): paper money only. My real money is safe from me.
+- [rag-chatbot](https://github.com/codeSudee/rag-chatbot): chats with my documents. Password-protected, because OpenAI bills aren't free
+- [rag-chatbot-evals](https://github.com/codeSudee/rag-chatbot-evals): a robot marking another robot's homework
+- [productivity-agent](https://github.com/codeSudee/productivity-agent) and [its API](https://github.com/codeSudee/productivity-agent-api): manages tasks by chatting
+- [url-shortener](https://github.com/codeSudee/url-shortener): with click stats and link expiry
+- [multi-agent-crew](https://github.com/codeSudee/multi-agent-crew): three agents write a report while I take the credit
+- [trading bots](https://github.com/codeSudee/xauusdt-trading-bot-v1): paper money only, my real money is safe from me
 
-## Websites I made
+## Websites
 
-All free, no sign-up, mostly built with Astro.
+All free, no sign-up.
 
-- [interpcalc.com](https://interpcalc.com): interpolation calculator
-- [variancecalc.com](https://variancecalc.com): variance and standard deviation calculator
-- [hsgpacalc.com](https://hsgpacalc.com): high school GPA calculator (weighted, unweighted, AP, IB, the lot)
-- [loremmaker.com](https://loremmaker.com): Lorem Ipsum generator. It has a cat mode, don't ask
-- [GFR calculator](https://github.com/codeSudee/GFR-calculator) and [JSON diff checker](https://github.com/codeSudee/jsondiffchecker): two more tools, still growing
-- [web-skills](https://codesudee.github.io/web-skills/): skills that help AI agents build websites that don't look like AI built them
+- [interpcalc.com](https://interpcalc.com): interpolation
+- [variancecalc.com](https://variancecalc.com): variance and standard deviation
+- [hsgpacalc.com](https://hsgpacalc.com): high school GPA
+- [loremmaker.com](https://loremmaker.com): Lorem Ipsum, with a cat mode
+- [web-skills](https://codesudee.github.io/web-skills/): skills so AI-built sites look less AI-built
 
 <div align="center">
 
