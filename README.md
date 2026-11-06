@@ -2,7 +2,7 @@
 
 I build APIs, AI agents and a suspicious number of calculator websites.
 
-Most of it works. Some of it works after I fix it at 2am.
+Most of it works...
 
 ## Latest ship
 
@@ -25,7 +25,7 @@ All free, no sign-up.
 - [variancecalc.com](https://variancecalc.com): variance and standard deviation
 - [hsgpacalc.com](https://hsgpacalc.com): high school GPA
 - [loremmaker.com](https://loremmaker.com): Lorem Ipsum, with a cat mode
-- [web-skills](https://codesudee.github.io/web-skills/): skills so AI-built sites look less AI-built
+- [web-skills](https://pagenue.com/): skills so AI-built sites look less AI-built
 
 <div align="center">
 
