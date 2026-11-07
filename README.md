@@ -25,6 +25,8 @@ All free, no sign-up.
 - [variancecalc.com](https://variancecalc.com): variance and standard deviation
 - [hsgpacalc.com](https://hsgpacalc.com): high school GPA
 - [loremmaker.com](https://loremmaker.com): Lorem Ipsum, with a cat mode
+
+Except.
 - [web-skills](https://pagenue.com/): skills so AI-built sites look less AI-built
 
 <div align="center">
